@@ -40,8 +40,10 @@ A complete cloud-native machine learning pipeline to predict student job placeme
 ### EDA Example
 
 <p align="center">
-  <img src="images\count_placementStatus.png" width="600"/>
+  <img src="images\count_placementStatus.png" width="700"/>
 </p>
+<p align="center"><i>Figure: Count Placement Status</i></p>
+
 
 ### Feature Importance
 
