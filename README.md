@@ -84,8 +84,8 @@ A complete cloud-native machine learning pipeline to predict student job placeme
 | Model              | Accuracy |
 |-------------------|----------|
 | Decision Tree      | 74%      |
-| Logistic Regression| 77%      |
-| **Random Forest**  | **78% ✅** |
+| Logistic Regression| 81%      |
+| **Random Forest**  | **84% ✅** |
 
 Random Forest was selected for its better performance and interpretability.
 
