@@ -11,6 +11,11 @@ A complete cloud-native machine learning pipeline to predict student job placeme
 </p>
 <p align="center"><i>Figure: Cloud-based ML pipeline for job placement prediction</i></p>
 
+<p align="center">
+  <img src="images\Architecture_Diagram_Final.png" width="700"/>
+</p>
+<p align="center"><i>Figure: Architecture Diagram</i></p>
+
 ---
 
 ## 🛠 Tech Stack
@@ -37,23 +42,44 @@ A complete cloud-native machine learning pipeline to predict student job placeme
 
 ## 📊 Visuals
 
-### EDA Example
+### EDA Examples
 
 <p align="center">
   <img src="images\count_placementStatus.png" width="700"/>
 </p>
 <p align="center"><i>Figure: Count Placement Status</i></p>
 
+<p align="center">
+  <img src="images\Box_Plot_CGPAvsPlactSt.png" width="700"/>
+</p>
+<p align="center"><i>Figure: Box Plot</i></p>
+
+<p align="center">
+  <img src="images\Pair_Plot.png" width="700"/>
+</p>
+<p align="center"><i>Figure: Pair Plot</i></p>
+
 
 ### Feature Importance
 
 <p align="center">
-  <img src="images\Pair_Plot.png" width="500"/>
+  <img src="images\Feature_Importance_BarPlot.png" width="500"/>
 </p>
+<p align="center"><i>Figure: Horizontal Bar plot of important Features</i></p>
 
 ---
 
 ## ✅ Model Performance
+
+<p align="center">
+  <img src="images\Models_Performnce_BarPlot.png" width="500"/>
+</p>
+<p align="center"><i>Figure: Model Performance</i></p>
+
+<p align="center">
+  <img src="images\Random Forest_confusion_matrix.png" width="500"/>
+</p>
+<p align="center"><i>Figure: Random Forest Confusion Matrix</i></p>
 
 | Model              | Accuracy |
 |-------------------|----------|
